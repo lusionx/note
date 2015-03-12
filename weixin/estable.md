@@ -16,8 +16,7 @@
 ## 追加字段
 * appid: string 公众号id
 * group: [分组情况](http://mp.weixin.qq.com/wiki/0/56d992c605a97245eb7e617854b169fc.html)
-* * id: int 
+* * id: int
 * * name: string
 * idate: datatime 入库时间
 
-xxx
