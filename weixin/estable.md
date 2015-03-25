@@ -13,10 +13,15 @@
 * subcribe_time: datatime?int
 * unionid: string 可选字段
 
+
+----------
+
+
 ## 追加字段
 * appid: string 公众号id
-* group: [分组情况](http://mp.weixin.qq.com/wiki/0/56d992c605a97245eb7e617854b169fc.html)
-* * id: int
+* groupid: [分组情况](http://mp.weixin.qq.com/wiki/0/56d992c605a97245eb7e617854b169fc.html)
+* * id: int 
 * * name: string
 * idate: datatime 入库时间
 
+x
